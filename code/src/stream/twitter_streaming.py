@@ -14,13 +14,13 @@ bucket = "image-bucket-266"
 fh = boto3.client('firehose')
 deliverystream_name = "twitter-stream"
 # Twitter Configuration keys
-consumer_secret =  "k0lTtj6DTsPfUWtkXynpQalFkF79xyovixmS1W6hMMN0VGJtgW"
-consumer_key = "XunErNB3P5XXRCx06KvzpgXkg"
-access_token = "1121188546318962690-R2cFYRzVMneHAPqczhO66yms9wrsG1"
-access_token_secret = "v98uvfWzP6Yk4kPgYIFNLzGtYxUeqLUJdjPyTHuvsd801"
+consumer_secret =  "xxx-xxx-xxx-xxx"
+consumer_key = "xxx-xxx-xxx-xxx"
+access_token = "xxx-xxx-xxx-xxx"
+access_token_secret = "xxx-xxx-xxx-xxx"
 
 # Twitter user
-user = "Dummy69710367"
+user = "xxx-twitter-handle-xxx"
 
 if __name__ == '__main__':
 
